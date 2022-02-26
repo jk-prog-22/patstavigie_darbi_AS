@@ -1,0 +1,3 @@
+ievade = input()
+
+print(ievade)
